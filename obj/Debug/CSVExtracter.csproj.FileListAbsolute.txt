@@ -1,0 +1,6 @@
+C:\Users\jning\Desktop\Project\CSVExtracter\CSVExtracter\bin\Debug\CSVExtracter.exe.config
+C:\Users\jning\Desktop\Project\CSVExtracter\CSVExtracter\bin\Debug\CSVExtracter.exe
+C:\Users\jning\Desktop\Project\CSVExtracter\CSVExtracter\bin\Debug\CSVExtracter.pdb
+C:\Users\jning\Desktop\Project\CSVExtracter\CSVExtracter\obj\Debug\CSVExtracter.csprojResolveAssemblyReference.cache
+C:\Users\jning\Desktop\Project\CSVExtracter\CSVExtracter\obj\Debug\CSVExtracter.exe
+C:\Users\jning\Desktop\Project\CSVExtracter\CSVExtracter\obj\Debug\CSVExtracter.pdb
